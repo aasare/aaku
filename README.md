@@ -3,7 +3,7 @@
     aaku-sys
   </h1>
 
-  ![screenshot_1](https://user-images.githubusercontent.com/16504838/56446196-82acf180-6301-11e9-962b-fb7b3ead4dfd.png)
+  ![Desktop screenshot](https://user-images.githubusercontent.com/16504838/108400076-7d819c00-7223-11eb-8c71-f98fe82873a4.png)
 </div>
 
 アーク (The Ark): My Linux dotfiles for the desktop system.
