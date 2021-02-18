@@ -1,7 +1,0 @@
-[user]
-	name = username
-	email = username@domain.com
-[core]
-	editor = vim
-[color]
-	ui = true
