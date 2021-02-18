@@ -1,0 +1,8 @@
+[submodule "dwm"]
+	path = dwm
+	url = https://gitlab.com/aonemd/dwm
+	branch = master
+[submodule "st"]
+	path = st
+	url = https://gitlab.com/aonemd/st
+	branch = master
