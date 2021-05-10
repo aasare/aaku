@@ -20,9 +20,6 @@ if [[ $DISPLAY ]]; then
 
   ln -sfn ${BASEDIR}/bin/fehbg $HOME/.fehbg
 
-  [ -d $HOME/.config/termite/ ] || mkdir -p $HOME/.config/termite
-  ln -sfn ${BASEDIR}/termite/config $HOME/.config/termite/config
-
   [ -d $HOME/.config/alacritty/ ] || mkdir -p $HOME/.config/alacritty
   ln -sfn ${BASEDIR}/alacritty/alacritty.yml $HOME/.config/alacritty/alacritty.yml
 
